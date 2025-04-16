@@ -8,5 +8,6 @@ public A()
 	}
 public static void main(String[] args) {
 		System.out.println("Hello Sachin");
+		System.out.println("Hello Rushi");
 	}
 }
