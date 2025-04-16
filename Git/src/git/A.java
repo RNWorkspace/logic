@@ -1,8 +1,9 @@
 package git;
 
 public class A {
-public void m1()
+public A()
 	{
+	System.out.println("constructor");
 	}
 	public static void main(String[] args) {
 		
